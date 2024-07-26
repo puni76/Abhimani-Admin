@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "820621936532",
+    "project_id": "abhigyani-51927",
+    "storage_bucket": "abhigyani-51927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820621936532:android:02893be6d980f34400b181",
+        "android_client_info": {
+          "package_name": "com.mycompany.abhimaani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1OtRQNDubKe3Hf2WOjW8KdXdNIvc2ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820621936532:android:85dec3359f5fbdf000b181",
+        "android_client_info": {
+          "package_name": "com.sesritha.cmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1OtRQNDubKe3Hf2WOjW8KdXdNIvc2ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820621936532:android:9ce0c7e6a6e65e0c00b181",
+        "android_client_info": {
+          "package_name": "com.sesritha.election"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1OtRQNDubKe3Hf2WOjW8KdXdNIvc2ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
